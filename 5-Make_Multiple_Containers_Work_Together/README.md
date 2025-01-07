@@ -110,7 +110,7 @@ I NETWORK  [thread1] waiting for connections on port 27017
 
 - [ ] Next let's spin up the other two server images we made, survey and results
 
-Be sure to also mount volumes in the respective directories just in case, i don't know, we want to make quick changes to the source code. *cough cough* (we will)
+Be sure to also mount volumes in the respective directories just in case, I don't know, we want to make quick changes to the source code. *cough cough* (we will)
 
 - [ ] cd into '/survey_server' and run:
 
